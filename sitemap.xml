@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://enespazar.com/categories/</loc>
+    <loc>http://enespazar.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://enespazar.com/</loc>
+    <loc>http://enespazar.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://enespazar.com/tags/</loc>
+    <loc>http://enespazar.com/tags/</loc>
     <priority>0</priority>
   </url>
   
